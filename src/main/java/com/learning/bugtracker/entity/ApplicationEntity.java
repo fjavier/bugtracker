@@ -1,4 +1,4 @@
-package java.com.learning.bugtracker.entity;
+package com.learning.bugtracker.entity;
 
 import javax.persistence.*;
 
